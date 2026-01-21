@@ -1,4 +1,4 @@
-﻿# A computer vision project that implements real-time hand tracking using OpenCV and MediaPipe libraries. This project includes two main Python scripts that demonstrate different approaches to hand tracking implementation.
+﻿# Real-time hand tracking using OpenCV and MediaPipe libraries.
 
 ## Files Description
 
@@ -59,3 +59,4 @@ The `handDetector` class accepts the following parameters:
 - Good lighting conditions will improve tracking accuracy
 
 - The application uses landmark detection to track 21 different points on each hand
+
